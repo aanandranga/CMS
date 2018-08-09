@@ -21,6 +21,10 @@ G:\Web Apps\dot net\CMS\CmsShoppingCart\CMS\CmsShoppingCart\bin\System.Web.WebPa
 G:\Web Apps\dot net\CMS\CmsShoppingCart\CMS\CmsShoppingCart\bin\System.Web.WebPages.Razor.xml
 G:\Web Apps\dot net\CMS\CmsShoppingCart\CMS\CmsShoppingCart\bin\Newtonsoft.Json.xml
 G:\Web Apps\dot net\CMS\CmsShoppingCart\CMS\CmsShoppingCart\bin\Antlr3.Runtime.pdb
-G:\Web Apps\dot net\CMS\CmsShoppingCart\CMS\CmsShoppingCart\obj\Debug\CmsShoppingCart.csprojResolveAssemblyReference.cache
 G:\Web Apps\dot net\CMS\CmsShoppingCart\CMS\CmsShoppingCart\obj\Debug\CmsShoppingCart.dll
 G:\Web Apps\dot net\CMS\CmsShoppingCart\CMS\CmsShoppingCart\obj\Debug\CmsShoppingCart.pdb
+G:\Web Apps\dot net\CMS\CmsShoppingCart\CMS\CmsShoppingCart\bin\EntityFramework.dll
+G:\Web Apps\dot net\CMS\CmsShoppingCart\CMS\CmsShoppingCart\bin\EntityFramework.SqlServer.dll
+G:\Web Apps\dot net\CMS\CmsShoppingCart\CMS\CmsShoppingCart\bin\EntityFramework.xml
+G:\Web Apps\dot net\CMS\CmsShoppingCart\CMS\CmsShoppingCart\bin\EntityFramework.SqlServer.xml
+G:\Web Apps\dot net\CMS\CmsShoppingCart\CMS\CmsShoppingCart\obj\Debug\CmsShoppingCart.csprojResolveAssemblyReference.cache
