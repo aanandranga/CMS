@@ -22,5 +22,11 @@ namespace CmsShoppingCart.Areas.Admin.Controllers
             }
             return View(pagesList);
         }
+
+        // GET: /Admin/Pages/AddPage
+        public ActionResult AddPage()
+        {
+            return View();
+        }
 	}
 }

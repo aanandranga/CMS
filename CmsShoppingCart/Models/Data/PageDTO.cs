@@ -7,7 +7,7 @@ using System.Web;
 
 namespace CmsShoppingCart.Models.Data
 {
-    [Table("tblPAges")]
+    [Table("tblPages")]
     public class PageDTO
     {
         [Key]
