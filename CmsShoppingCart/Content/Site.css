@@ -3,6 +3,14 @@
     padding-bottom: 20px;
 }
 
+table.sorting tr:not(.home){
+    cursor:pointer;
+}
+
+.ui-state-highlight{
+    border:1px dashed #ccc;
+}
+
 /* Set padding to keep content from hitting the edges 
 .body-content {
     padding-left: 15px;
