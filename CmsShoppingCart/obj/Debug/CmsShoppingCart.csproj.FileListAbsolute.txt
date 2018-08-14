@@ -27,4 +27,3 @@ G:\Web Apps\dot net\CMS\CmsShoppingCart\CMS\CmsShoppingCart\bin\EntityFramework.
 G:\Web Apps\dot net\CMS\CmsShoppingCart\CMS\CmsShoppingCart\bin\EntityFramework.SqlServer.dll
 G:\Web Apps\dot net\CMS\CmsShoppingCart\CMS\CmsShoppingCart\bin\EntityFramework.xml
 G:\Web Apps\dot net\CMS\CmsShoppingCart\CMS\CmsShoppingCart\bin\EntityFramework.SqlServer.xml
-G:\Web Apps\dot net\CMS\CmsShoppingCart\CMS\CmsShoppingCart\obj\Debug\CmsShoppingCart.csprojResolveAssemblyReference.cache
